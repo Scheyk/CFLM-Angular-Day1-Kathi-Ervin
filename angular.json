@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TouristAgency"
+    }
+  },
+  "defaultProject": "TouristAgency",
+  "cli": {
+    "analytics": "f55f8974-8931-4277-80da-4fe7feb92566"
+  }
 }
